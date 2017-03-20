@@ -1,0 +1,2 @@
+Cactus Metronome Library
+Copyright 2017 Freesoft Oriented
